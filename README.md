@@ -12,5 +12,5 @@
   
   ##
  
- ![Snake animation](https://github.com/rafaelagrade/rafaelagrade/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/rafaelagrade/rafaelagrade/new/main?filename=.github%2Fworkflows%2Fmain.yml&workflow_template=blank)
 
