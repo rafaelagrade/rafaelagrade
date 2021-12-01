@@ -11,5 +11,3 @@
  
   
   ##
- 
- ![Snake animation](https://github.com/rafaelagrade/rafaelagrade/blob/output/github-contribution-grid-snake.svg)
